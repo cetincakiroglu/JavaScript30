@@ -72,10 +72,11 @@ html {
     background: black;
 }
 .second-hand{
-    width: 1%;
+    width: .1%;
     height: 40%;
-    border: 2px solid white;
+    border: .1px solid white;
     background:white;
+    border-radius: 5px;
 }
 .clock .number{
     position: absolute;
